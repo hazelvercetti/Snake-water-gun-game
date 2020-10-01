@@ -1,2 +1,2 @@
 # Snake-water-gun-game
-Game
+Awesome game
